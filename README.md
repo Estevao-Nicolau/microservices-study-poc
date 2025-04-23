@@ -1,2 +1,1 @@
-# microservices-study-poc
-PoC educativa de microsserviços em Java 17 + Spring Boot 3 com Kafka, PostgreSQL, MongoDB e Docker Compose.
+Prova de conceito 100 % educativa que demonstra, passo a passo, como desenhar e subir uma arquitetura de microsserviços moderna em Java 17 + Spring Boot 3, com comunicação assíncrona via Apache Kafka, persistência combinada em PostgreSQL e MongoDB, orquestração em Docker Compose e observabilidade básica. Ideal para estudantes e profissionais que desejam aprender, clonar, experimentar e evoluir seus conhecimentos em microsserviços.
